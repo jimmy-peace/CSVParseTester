@@ -1,0 +1,11 @@
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\CSVParseTester.exe.config
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\CSVParseTester.exe
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\CSVParseTester.pdb
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\CsvHelper.dll
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\CsvHelper.pdb
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\CsvHelper.xml
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\obj\Debug\CSVParseTester.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\obj\Debug\CSVParseTester.exe
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\obj\Debug\CSVParseTester.pdb
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\FileHelpers.dll
+c:\users\ben\documents\visual studio 2015\Projects\CSVParseTester\CSVParseTester\bin\Debug\FileHelpers.xml
