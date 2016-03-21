@@ -124,7 +124,7 @@ namespace CSVParseTester
             
                 foreach (var prod in product2s)
                 {
-            
+                Console.WriteLine("Github test. Now I'm testing the branch");
                 }
         }
     }
